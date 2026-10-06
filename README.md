@@ -40,6 +40,7 @@ The CNN contains:
 The model was trained for 5 epochs and achieved:
 
 - **Training Accuracy:** 98.53%
+-  **Test Accuracy:** 98.89%
 - ## Sample Results
 
 ### Sample Predictions
@@ -53,8 +54,6 @@ The model was trained for 5 epochs and achieved:
 ### Training Curves
 
 ![Training Curves](results/training_curves.png)
-- **Test Accuracy:** 98.89%
-
 The model performs strongly on unseen handwritten-digit images.
 
 ## Project Files
